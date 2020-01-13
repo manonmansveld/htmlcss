@@ -39,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -75,10 +76,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="69" y="30" key="CommitChangelistDialog2" timestamp="1578906772861">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="69" y="30" key="CommitChangelistDialog2/78.0.1458.864@78.0.1458.864" timestamp="1578906772861" />
     <state x="224" y="177" key="FileChooserDialogImpl" timestamp="1578906683521">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
     <state x="224" y="177" key="FileChooserDialogImpl/78.0.1458.864@78.0.1458.864" timestamp="1578906683521" />
+    <state x="153" y="157" key="Vcs.Push.Dialog.v2" timestamp="1578906782669">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="153" y="157" key="Vcs.Push.Dialog.v2/78.0.1458.864@78.0.1458.864" timestamp="1578906782669" />
     <state x="504" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1578906500553">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
