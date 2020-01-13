@@ -30,6 +30,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\PhPStorm\HTML\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1WKm7pupSQUOnPlalvrhBuUeBG2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -76,10 +83,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="69" y="30" key="CommitChangelistDialog2" timestamp="1578906772861">
+    <state x="69" y="30" key="CommitChangelistDialog2" timestamp="1578906969877">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="69" y="30" key="CommitChangelistDialog2/78.0.1458.864@78.0.1458.864" timestamp="1578906772861" />
+    <state x="69" y="30" key="CommitChangelistDialog2/78.0.1458.864@78.0.1458.864" timestamp="1578906969877" />
     <state x="224" y="177" key="FileChooserDialogImpl" timestamp="1578906683521">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
