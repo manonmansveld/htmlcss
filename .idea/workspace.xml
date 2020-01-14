@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e6bfa3-dbdd-4320-9f13-03e99521bcc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +43,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -75,29 +75,60 @@
       <option name="presentableId" value="Default" />
       <updated>1578906234226</updated>
       <workItem from="1578906235515" duration="152000" />
-      <workItem from="1578906500267" duration="254000" />
+      <workItem from="1578906500267" duration="2330000" />
+      <workItem from="1578988704651" duration="2325000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1578906773556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578906773556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1578906892023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578906892023</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1578906986762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578906986762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="69" y="30" key="CommitChangelistDialog2" timestamp="1578906969877">
+    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1578995617332">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="69" y="30" key="CommitChangelistDialog2/78.0.1458.864@78.0.1458.864" timestamp="1578906969877" />
-    <state x="224" y="177" key="FileChooserDialogImpl" timestamp="1578906683521">
+    <state x="318" y="0" key="CommitChangelistDialog2/78.0.1458.864@78.0.1458.864" timestamp="1578995617332" />
+    <state x="0" y="77" key="DiffContextDialog" timestamp="1578906984219">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="224" y="177" key="FileChooserDialogImpl/78.0.1458.864@78.0.1458.864" timestamp="1578906683521" />
-    <state x="153" y="157" key="Vcs.Push.Dialog.v2" timestamp="1578906782669">
+    <state x="0" y="77" key="DiffContextDialog/78.0.1458.864@78.0.1458.864" timestamp="1578906984219" />
+    <state x="224" y="177" key="FileChooserDialogImpl" timestamp="1578907081644">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="153" y="157" key="Vcs.Push.Dialog.v2/78.0.1458.864@78.0.1458.864" timestamp="1578906782669" />
-    <state x="504" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1578906500553">
+    <state x="224" y="177" key="FileChooserDialogImpl/78.0.1458.864@78.0.1458.864" timestamp="1578907081644" />
+    <state x="153" y="157" key="Vcs.Push.Dialog.v2" timestamp="1578907161303">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="504" y="257" key="com.intellij.ide.util.TipDialog/78.0.1458.864@78.0.1458.864" timestamp="1578906500553" />
+    <state x="153" y="157" key="Vcs.Push.Dialog.v2/78.0.1458.864@78.0.1458.864" timestamp="1578907161303" />
+    <state x="504" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1578988776558">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="504" y="257" key="com.intellij.ide.util.TipDialog/78.0.1458.864@78.0.1458.864" timestamp="1578988776558" />
   </component>
 </project>
