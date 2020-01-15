@@ -1,0 +1,21 @@
+body{
+    background-image:url("tableimages/sloth.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    background-size:700px;
+    margin-bottom: 600px;
+}
+table{
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: "Century Gothic", sans-serif;
+    text-align: center;
+
+}
+h1{
+    font-family: "Century Gothic", sans-serif;
+    margin-top: 50px;
+    margin-left: 250px
+}
