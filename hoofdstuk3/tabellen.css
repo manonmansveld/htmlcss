@@ -1,0 +1,62 @@
+body{
+    background-image:url("tableimages/tables.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: darkolivegreen;
+    font-family: "Century Gothic", sans-serif;
+    text-shadow: 2px 2px 3px black, 0 0 1em black, 0 0 0.2em dimgrey;
+    font-size: 75px;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+.stage{
+    height: 350px;
+    width: 250px;
+    margin-left: 50px;
+}
+.p{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 0;
+    cursor: pointer;
+    width: 100%;
+    background: darkolivegreen;
+    border-radius: 10px;
+    font-family: "Century Gothic";
+    letter-spacing: 4px;
+}
+.div{
+    border-radius: 10px;
+    width: 225px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 50px;
+    transition-duration: 0.2s;
+
+}
+.p:hover{
+    background: black;
+    color: darkolivegreen;
+}
+.div:nth-child(odd){
+    transform: perspective(300px) rotateY(45deg);
+    box-shadow: -2px 2px 7px black;
+}
+.div:nth-child(even){
+    transform: perspective(300px) rotateY(-45deg);
+    box-shadow: 2px 2px 7px dimgrey;
+}
+.div:hover {
+    transform: rotateY(0);
+    background: white;
+    color: black;
+}
+
