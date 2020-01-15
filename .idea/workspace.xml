@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e6bfa3-dbdd-4320-9f13-03e99521bcc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hoofdstuk3/tabellen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoofdstuk2/fallouthomepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/hoofdstuk2/fallouthomepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoofdstuk3/tabel1.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoofdstuk3/tabel1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hoofdstuk3/tabellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoofdstuk3/tabellen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +87,7 @@
       <workItem from="1578906500267" duration="2330000" />
       <workItem from="1578988704651" duration="3322000" />
       <workItem from="1579005918619" duration="2534000" />
-      <workItem from="1579073394420" duration="12592000" />
+      <workItem from="1579073394420" duration="12869000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1578906773556</created>
@@ -176,7 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579085206852</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit">
+      <created>1579090742415</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579090742415</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit">
+      <created>1579090776572</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579090776572</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Commit">
+      <created>1579090847854</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579090847854</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,10 +205,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1579090775970">
+    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1579090847258">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="318" y="0" key="CommitChangelistDialog2/78.0.1458.864@78.0.1458.864" timestamp="1579090775970" />
+    <state x="318" y="0" key="CommitChangelistDialog2/78.0.1458.864@78.0.1458.864" timestamp="1579090847258" />
     <state x="0" y="77" key="DiffContextDialog" timestamp="1578906984219">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
@@ -199,10 +217,10 @@
       <screen x="78" y="0" width="1458" height="864" />
     </state>
     <state x="224" y="177" key="FileChooserDialogImpl/78.0.1458.864@78.0.1458.864" timestamp="1579074934404" />
-    <state x="153" y="157" key="Vcs.Push.Dialog.v2" timestamp="1579090778119">
+    <state x="153" y="157" key="Vcs.Push.Dialog.v2" timestamp="1579090849098">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
-    <state x="153" y="157" key="Vcs.Push.Dialog.v2/78.0.1458.864@78.0.1458.864" timestamp="1579090778119" />
+    <state x="153" y="157" key="Vcs.Push.Dialog.v2/78.0.1458.864@78.0.1458.864" timestamp="1579090849098" />
     <state x="504" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1579073397275">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
