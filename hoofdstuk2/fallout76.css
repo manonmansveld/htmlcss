@@ -1,0 +1,127 @@
+title {
+    color: white;
+    text-align: center;
+    font-family: "Century Gothic", sans-serif;
+}
+
+body {
+    background-color: grey;
+    text-align: left;
+    background-image: url("falloutimages/wastelanders.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: "overseer", sans-serif;
+    text-shadow: 2px 2px 3px black, 0 0 1em black, 0 0 0.2em white;
+    font-size: 35px;
+    margin-top: -25px;
+    margin-left: 105px;
+    font-style: italic;
+}
+
+h2 {
+    color: white;
+    font-family: "overseer", sans-serif;
+    text-shadow: 2px 2px 3px black, 0 0 1em black, 0 0 0.2em white;
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    text-shadow: 2px 2px 3px black, 0 0 1em black, 0 0 0.2em white;
+    text-align: center;
+}
+
+@font-face{
+    font-family: "overseer", sans-serif;
+    src: url('fonts/overseer.otf') format('opentype');
+    src: url('fonts/overseer.eot') format('embedded-opentype'),
+    url('fonts/overseer.woff2') format('woff2'),
+    url('fonts/overseer.woff') format('woff'),
+    url('fonts/overseer.ttf') format('truetype');
+}
+
+p {
+    font-family: "Century Gothic", sans-serif;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1em grey, 0 0 0.2em white;
+}
+
+table, th, td {
+    padding: 15px;
+    font-family: "Century Gothic", sans-serif;
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px black, 0 0 1em grey, 0 0 0.2em white;
+    text-align: center;
+    margin-top: -50px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.logo{
+    height:150px;
+}
+
+.welcome{
+    width: 55%;
+    border: 2px solid #f6b93b;
+    border-radius: 8px;
+    background-image: url("falloutimages/nuke.jpg");
+    background-size: cover;
+    opacity: 1;
+    filter: alpha(opacity=50);
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.xbox{
+    height:275px;
+}
+
+.ps4{
+    height:250px;
+}
+
+.pc{
+    height:250px;
+}
+
+.xboxicon{
+    height:15px;
+}
+
+.ps4icon{
+    height:19px;
+}
+
+.pcicon{
+    height:25px;
+}
+
+.button {
+    color: #494949 !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 20px;
+    border: 4px solid #494949 !important;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+}
+
+.button:hover {
+    color: #ffffff !important;
+    background: #f6b93b;
+    border-color: #f6b93b !important;
+    transition: all 0.4s ease 0s;
+}
