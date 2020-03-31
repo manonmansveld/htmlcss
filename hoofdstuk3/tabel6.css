@@ -8,3 +8,12 @@ td,tr{
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+body{
+    background-image:url("tableimages/sloth.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    background-size:700px;
+    margin-bottom: 600px;
+}
